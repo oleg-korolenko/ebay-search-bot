@@ -1,0 +1,8 @@
+.idea/
+.bloop/
+.bsp/
+.metals/
+/**/metals.sbt
+.DS_Store
+out/
+**/target
